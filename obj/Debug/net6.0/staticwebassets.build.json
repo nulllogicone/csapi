@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dNSaBjiQaUgL8AIDM8bbYjEqwQX+ZcZjkTHbbiCWAok=",
+  "Source": "csapi",
+  "BasePath": "_content/csapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
