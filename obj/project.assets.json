@@ -208,24 +208,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Frederic\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/var/nuget": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Temp\\csapi\\csapi.csproj",
+      "projectUniqueName": "/workspaces/csapi/csapi.csproj",
       "projectName": "csapi",
-      "projectPath": "D:\\Temp\\csapi\\csapi.csproj",
-      "packagesPath": "C:\\Users\\Frederic\\.nuget\\packages\\",
-      "outputPath": "D:\\Temp\\csapi\\obj\\",
+      "projectPath": "/workspaces/csapi/csapi.csproj",
+      "packagesPath": "/var/nuget",
+      "outputPath": "/workspaces/csapi/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Frederic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -260,8 +255,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -273,7 +267,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/dotnet/6.0.301/sdk/6.0.301/RuntimeIdentifierGraph.json"
       }
     }
   }
